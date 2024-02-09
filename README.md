@@ -4,7 +4,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapan-samal&label=Profile%20views&color=0e75b6&style=flat" alt="tapan-samal" /> </p>
-<img align="right" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapan-samal&show_icons=true&locale=en&layout=compact" alt="tapan-samal" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapan-samal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="tapan-samal" />
 <p align="left">💻  About Me : </p>
 🔭 I’m currently working on Front End Web Devlopment.
 
