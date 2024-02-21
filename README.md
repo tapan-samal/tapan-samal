@@ -8,7 +8,7 @@
 <p align="left">💻  About Me : </p>
 🔭 I’m currently working on Front End Web Devlopment.
 
-🌱 I’m currently learning **TypeScript and NodeJS**.
+🌱 I’m currently learning **MERN Stack**.
 
 📫 How to reach me **mail2tapansoft@gmail.com**.
 
