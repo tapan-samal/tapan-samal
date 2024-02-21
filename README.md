@@ -1,6 +1,6 @@
 ![logo](https://github.com/tapan-samal/TapanSamal/blob/main/dev.gif)
 <h1 align="center">Hi 👋, I'm Tapan Samal</h1>
-<h3 align="center">!! A Passionate Web Developer from  <a><a/> India !!</h3>
+<h3 align="center">... A Passionate Web Developer from India ...</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapan-samal&label=Profile%20views&color=0e75b6&style=flat" alt="tapan-samal" /> </p>
