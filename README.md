@@ -1,5 +1,5 @@
 ![logo](https://github.com/tapan-samal/TapanSamal/blob/main/dev.gif)
-<h1 align="center">Hi 👋, I'm Tapan Samal</h1>
+<h1 align="center">Hi 👋 I'm Tapan Samal</h1>
 <h3 align="center">... A Passionate Web Developer from India ...</h3>
 
 
