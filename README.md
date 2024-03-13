@@ -1,16 +1,16 @@
 ![logo](https://github.com/tapan-samal/TapanSamal/blob/main/dev.gif)
-<h1 align="center">Hi 👋 I'm Tapan Samal</h1>
+<h1 align="center">Hi 👋, I'm Tapan Samal</h1>
 <h3 align="center">... A Passionate Web Developer from India ...</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tapan-samal&label=Profile%20views&color=0e75b6&style=flat" alt="tapan-samal" /> </p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tapan-samal&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="tapan-samal" />
 <p align="left">💻  About Me : </p>
-🔭 I’m currently working on Front End Web Devlopment.
+🔭 I’m currently working as a Front End Web Developer.
 
-🌱 I’m currently learning **MERN Stack**.
+🌱 Learning **MERN Stack**.
 
-📫 How to reach me **mail2tapansoft@gmail.com**.
+📫 Reach me  **mail2tapansoft@gmail.com**.
 
 
 <h4 align="left">🛠️ Languages and Tools :</h4>
