@@ -11,7 +11,7 @@
 <p align="left">💻  About Me : </p>
 🔭 Currently working as a MERN Stack Developer.
 
-🌱 Learning **Phython and MySQL**.
+🌱 Plan to learn **Phython and MySQL**.
 
 📫 Reach me : &nbsp;
   <a href="mailto:mail2tapansoft@gmail.com">
