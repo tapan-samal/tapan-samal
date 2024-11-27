@@ -15,14 +15,15 @@
 
 📫 Reach me : &nbsp;
   <a href="mailto:mail2tapansoft@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-34a853?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/TapanSamal" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-333333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://www.linkedin.com/in/tapan-samal/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-34a853?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://twitter.com/tapankumarsamal" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="https://www.linkedin.com/in/tapan-kumar-samal/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 
 <h4 align="left">🛠️ Languages and Tools :</h4>
 
