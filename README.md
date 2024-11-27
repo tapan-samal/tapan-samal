@@ -43,7 +43,7 @@
 [![JEST](https://img.shields.io/badge/JEST-15c213?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/docs/getting-started)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VSCode-1572B6?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/VSCode-1572B6?style=for-the-badge&logo=git&logoColor=white)](https://code.visualstudio.com/)
 [![Chat GPT](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 <!-- <div align="center">
