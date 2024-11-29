@@ -43,10 +43,12 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![JEST](https://img.shields.io/badge/JEST-15c213?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/docs/getting-started)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-1572B6?style=for-the-badge&logo=git&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Chat GPT](https://img.shields.io/badge/Chat_GPT-000000?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![MS Office](https://img.shields.io/badge/MS_Office-DC3E15?style=for-the-badge&logo=microsoftoffice&logoColor=white)](https://www.microsoft.com/microsoft-365)
+[![Tally ERP](https://img.shields.io/badge/Tally_ERP-FF6600?style=for-the-badge&logo=tally&logoColor=white)](https://tallysolutions.com/)
 <!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,jest,nodejs,express,python,mongodb,mysql,graphql,sass,bootstrap,tailwind,vscode,github,postman" />
 </div> -->
