@@ -17,9 +17,6 @@
   <a href="mailto:mail2tapansoft@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-34a853?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="mailto:mail2tapansoft@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Gmail-34A853?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email" />
-</a>
 <a href="https://x.com/TapanSamal" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
 </a>
