@@ -48,7 +48,6 @@
 [![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=yellow)](https://www.python.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Chat GPT](https://img.shields.io/badge/Chat_GPT-000000?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 <!-- <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,jest,nodejs,express,python,mongodb,mysql,graphql,sass,bootstrap,tailwind,vscode,github,postman" />
 </div> -->
